@@ -6,8 +6,8 @@ permalink: /people/
 title: "People"
 ---
 
-## Principal Investigators
+## Principal investigators
 
-## Postdoctoral Fellows
+## Postdoctoral fellows
 
-## Graduate Students
+## Graduate students
