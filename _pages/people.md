@@ -1,13 +1,13 @@
 ---
-layout: splash
+layout: single
 classes: wide
 author_profile: false
-header:
-  image: https://hopkinsidd.github.io/flepiMoP_site/images/flepiMoP_retreat_Aug2023_crop.jpg
-  caption: "*flepiMoP retreat -- August 2023 -- Chapel Hill, North Carolina*"
 permalink: /people/
 title: "People"
 ---
+
+<img src="https://hopkinsidd.github.io/flepiMoP_site/images/flepiMoP_retreat_Aug2023_crop.jpg" width="100%"/><br>
+*flepiMoP retreat -- August 2023 -- Chapel Hill, North Carolina*
 
 | <font size="4">Principal Investigators</font> | | |
 |:---|:---|:---|
