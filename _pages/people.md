@@ -6,7 +6,7 @@ permalink: /people/
 title: "People"
 ---
 
-<img src="https://hopkinsidd.github.io/flepiMoP_site/images/flepiMoP_retreat_Aug2023_crop.jpg" width="100%"/><br>
+<img src="https://hopkinsidd.github.io/flepiMoP_site/images/flepiMoP_retreat_Aug2023_crop.jpg" width="100%"/>
 <font size="2"><i>flepiMoP retreat -- August 2023 -- Chapel Hill, North Carolina</i></font>
 
 | <font size="4">Principal Investigators</font> | | |
@@ -23,6 +23,6 @@ title: "People"
 | <img src="https://hopkinsidd.github.io/flepiMoP_site/images/Sung-mok_Jung.jpeg" width="300px"/><br><b>Sung-mok Jung</b><br><font size="1">Postdoctoral Fellow<br>Carolina Population Center<br>University of North Carolina at Chapel Hill</font>| <img src="https://hopkinsidd.github.io/flepiMoP_site/images/Joseph_Lemaitre.jpeg" width="300px"/><br><b>Joseph Lemaitre</b><br><font size="1">Postdoctoral Fellow<br>Department of Epidemiology<br>UNC Gillings School of Global Public Health</font> | <img src="https://hopkinsidd.github.io/flepiMoP_site/images/Sara_Loo.jpeg" width="300px"/><br><b>Sara Loo</b><br><font size="1">Postdoctoral Fellow<br>Department of International Health<br>Johns Hopkins Bloomberg School of Public Health</font> |
 | <img src="https://hopkinsidd.github.io/flepiMoP_site/images/Heramb_Gupta.jpeg" width="300px"/><br><b>Heramb Gupta</b><br><font size="1">MSE Candidate<br>Department of Biomedical Engineering<br>Johns Hopkins Whiting School of Engineering</font> | <img src="https://hopkinsidd.github.io/flepiMoP_site/images/Claire_Smith.jpeg" width="300px"/><br><b>Claire Smith</b><br><font size="1">PhD Candidate<br>Department of International Health<br>Johns Hopkins Bloomberg School of Public Health</font> | |
 
-| <font size="4">Alumni</font> |
-|:---|
-| <font size="2">Kyra Grantz<br>Juan Dent Hulse<br>Joshua Kaminsky<br>Kathryn Kaminsky<br>Stephen Lauer<br>Lindsay Keegan<br>Hannah Meredith<br>Javier Perez-Saez<br>Sam Shah<br>Josh Wills</font> |
+| <font size="4">Alumni</font> | | |
+|:---|:---|:---|
+| <font size="2">Kyra Grantz<br>Juan Dent Hulse<br>Joshua Kaminsky<br>Kathryn Kaminsky<br>Stephen Lauer<br>Lindsay Keegan<br>Hannah Meredith<br>Javier Perez-Saez<br>Sam Shah<br>Josh Wills</font> | | |
