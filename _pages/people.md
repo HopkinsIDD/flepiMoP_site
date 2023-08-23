@@ -1,6 +1,5 @@
 ---
-layout: single
-classes: wide
+layout: splash
 author_profile: false
 header:
   image: https://hopkinsidd.github.io/flepiMoP_site/images/flepiMoP_retreat_Aug2023.jpg
