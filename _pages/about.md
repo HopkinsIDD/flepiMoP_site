@@ -2,7 +2,7 @@
 layout: single
 classes: wide
 author_profile: false
-permalink: /about/
+permalink: /
 title: "About"
 ---
 
