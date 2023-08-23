@@ -10,7 +10,7 @@ title: "People"
 
 | | |
 |:------:|:------:|:------:|
-| ![]("/images/Shaun_Truelove.jpeg")<br><b>Shaun Truelove</b><br>Assistant Scientist<br>Departments of Epidemiology and International Health<br>Johns Hopkins Bloomberg School of Public Health | ![]("/images/Alison_Hill.jpeg")<br><b>Alison Hill</b><br>Assistant Professor<br>Department of Biomedical Engineering<br>Johns Hopkins University | ![]("/images/Justin_Lessler.jpeg")<br><b>Justin Lessler</b><br>Professor<br>Department of Epidemiology<br>UNC Gillings School of Global Public Health |
+| ![](images/Shaun_Truelove.jpeg)<br><b>Shaun Truelove</b><br>Assistant Scientist<br>Departments of Epidemiology and International Health<br>Johns Hopkins Bloomberg School of Public Health | ![](images/Alison_Hill.jpeg)<br><b>Alison Hill</b><br>Assistant Professor<br>Department of Biomedical Engineering<br>Johns Hopkins University | ![](images/Justin_Lessler.jpeg)<br><b>Justin Lessler</b><br>Professor<br>Department of Epidemiology<br>UNC Gillings School of Global Public Health |
 
 ## Staff
 
