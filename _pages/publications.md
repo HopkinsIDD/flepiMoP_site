@@ -5,7 +5,7 @@ author_profile: false
 permalink: /publications/
 title: "Publications"
 toc: true
-toc_label: "contents"
+toc_label: "Contents"
 ---
 
 ## Peer-reviewed articles
