@@ -107,7 +107,7 @@ author:
   name             : 
   avatar           : "/images/flepiMoP_icon_dark.jpg"
   bio              : "The JHU-IDD Flexible Epidemic Modeling Pipeline"
-  location         : "Johns Hopkins University &<br>University of North Carolina at Chapel Hill"
+  location         : "Johns Hopkins University &<br>University of North Carolina<br>at Chapel Hill"
   email            : 
   links:
     # - label: "Email"
