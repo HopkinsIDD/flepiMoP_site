@@ -8,6 +8,6 @@ title: "People"
 
 ## Principal investigators
 
-## Postdoctoral fellows
+## Staff
 
-## Graduate students
+## Students, postdocs, & researchers
