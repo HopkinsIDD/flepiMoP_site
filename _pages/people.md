@@ -1,8 +1,9 @@
 ---
 layout: splash
+classes: wide
 author_profile: false
 header:
-  image: https://hopkinsidd.github.io/flepiMoP_site/images/flepiMoP_retreat_Aug2023.jpg
+  image: https://hopkinsidd.github.io/flepiMoP_site/images/flepiMoP_retreat_Aug2023_crop.jpg
   caption: "*flepiMoP retreat -- August 2023 -- Chapel Hill, North Carolina*"
 permalink: /people/
 title: "People"
