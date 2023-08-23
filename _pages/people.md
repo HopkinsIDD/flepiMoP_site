@@ -15,7 +15,7 @@ title: "People"
 
 | <font size="4">Staff</font> | | |
 |:---|:---|:---|
-| <img src="https://hopkinsidd.github.io/flepiMoP_site/images/Erica_Carcelen.jpeg" width="300px"/><br><b>Erica Carcelen</b><br><font size="1">Research Project Manager<br>Department of International Health<br>Johns Hopkins Bloomberg School of Public Health</font> | <img src="https://hopkinsidd.github.io/flepiMoP_site/images/Pengcheng_Fang.jpeg" width="300px"/><br><b>Pengcheng Fang</b><br><font size="1">Software Engineer<br>Department of Epidemiology<br>Johns Hopkins Bloomberg School of Public Health</font> | <img src="https://hopkinsidd.github.io/flepiMoP_site/images/Koji_Sato.jpg" width="300px"/><br><b>Koji Sato</b><br><font size="1">Senior Software Engineer<br>Department of International Health<br>Johns Hopkins Bloomberg School of Public Health</font> |
+| <img src="https://hopkinsidd.github.io/flepiMoP_site/images/Erica_Carcelen.jpeg" width="300px"/><br><b>Erica Carcelen</b><br><font size="1">Research Project Manager<br>Department of International Health<br>Johns Hopkins Bloomberg School of Public Health</font> | <img src="https://hopkinsidd.github.io/flepiMoP_site/images/Pengcheng_Fang.jpeg" width="300px"/><br><b>Pengcheng Fang</b><br><font size="1">Software Engineer<br>Department of Epidemiology<br>Johns Hopkins Bloomberg School of Public Health</font> | <img src="https://hopkinsidd.github.io/flepiMoP_site/images/Koji_Sato_crop.jpg" width="300px"/><br><b>Koji Sato</b><br><font size="1">Senior Software Engineer<br>Department of International Health<br>Johns Hopkins Bloomberg School of Public Health</font> |
 
 | <font size="4">Students, Fellows, & Researchers</font> | | |
 |:---|:---|:---|
