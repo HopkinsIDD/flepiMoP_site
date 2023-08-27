@@ -6,7 +6,7 @@ permalink: /people/
 title: "People"
 ---
 
-<img src="https://hopkinsidd.github.io/flepiMoP_site/images/flepiMoP_retreat_Aug2023_crop.jpg" width="100%"/><br><i>flepiMoP retreat -- August 2023 -- Chapel Hill, North Carolina</i><br>
+<img src="https://hopkinsidd.github.io/flepiMoP_site/images/flepiMoP_retreat_Aug2023_crop.jpg" width="100%"/><br><font size="2"><i>flepiMoP retreat -- August 2023 -- Chapel Hill, North Carolina</i></font><br>
 
 | <font size="4">Current Members</font> | | |
 |:--|:-|:-----|
