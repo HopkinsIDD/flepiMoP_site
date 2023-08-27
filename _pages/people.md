@@ -28,14 +28,4 @@ title: "People"
 
 | <font size="4">Past Members</font> |
 |:-|
-| Kyra Grantz |
-| Juan Dent Hulse
-| Joshua Kaminsky |
-| Kathryn Kaminsky |
-| Stephen Lauer |
-| Elizabeth Lee |
-| Lindsay Keegan |
-| Hannah Meredith |
-| Javier Perez-Saez |
-| Sam Shah |
-| Josh Wills |
+| Kyra Grantz, Juan Dent Hulse, Joshua Kaminsky, Kathryn Kaminsky, Stephen Lauer, Elizabeth Lee, Lindsay Keegan, Hannah Meredith, Javier Perez-Saez, Sam Shah, Josh Wills |
