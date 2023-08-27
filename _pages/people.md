@@ -9,7 +9,7 @@ title: "People"
 <img src="https://hopkinsidd.github.io/flepiMoP_site/images/flepiMoP_retreat_Aug2023_crop.jpg" width="100%"/><br><font size="2"><i>flepiMoP retreat -- August 2023 -- Chapel Hill, North Carolina</i></font><br>
 
 | <font size="4">Current Members</font> | | |
-|:---|:-|:-----|
+|:--|:-|:-----|
 | <font size="4">Principal Investigators</font> | | |
 | <img src="https://hopkinsidd.github.io/flepiMoP_site/images/Shaun_Truelove.jpeg" width="200px" height="267px"/> | <b>Shaun Truelove</b> | <font size="2">Assistant Scientist<br>Departments of Epidemiology and International Health<br>Johns Hopkins Bloomberg School of Public Health</font> |
 | <img src="https://hopkinsidd.github.io/flepiMoP_site/images/Alison_Hill.jpeg" width="200px" height="267px"/> | <b>Alison Hill</b> | <font size="2">Assistant Professor<br>Department of Biomedical Engineering<br>Johns Hopkins University School of Medicine</font> |
@@ -27,5 +27,15 @@ title: "People"
 | <img src="https://hopkinsidd.github.io/flepiMoP_site/images/Heramb_Gupta.jpeg" width="200px" height="267px"/> | <b>Heramb Gupta</b> | <font size="2">MSE Candidate<br>Department of Biomedical Engineering<br>Johns Hopkins Whiting School of Engineering</font> |
 
 | <font size="4">Past Members</font> |
-|:---|
-| <font size="2">Kyra Grantz, Juan Dent Hulse, Joshua Kaminsky, Kathryn Kaminsky, Stephen Lauer, Elizabeth Lee, Lindsay Keegan, Hannah Meredith, Javier Perez-Saez, Sam Shah, Josh Wills</font> |
+|:-|
+| Kyra Grantz |
+| Juan Dent Hulse
+| Joshua Kaminsky |
+| Kathryn Kaminsky |
+| Stephen Lauer |
+| Elizabeth Lee |
+| Lindsay Keegan |
+| Hannah Meredith |
+| Javier Perez-Saez |
+| Sam Shah |
+| Josh Wills |
