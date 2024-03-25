@@ -10,6 +10,10 @@ toc_label: "Contents"
 
 ## Peer-reviewed articles
 
+**2024**
+
+Lemaitre JC, Loo SL, Kaminsky J, Lee EC, McKee C, Smith C, Jung S-m, Sato K, Carcelen E, Hill A, Lessler J, Truelove S. *flepiMoP*: the evolution of a flexible infectious disease modeling pipeline during the COVID-19 pandemic. [Epidemics. 2024; 47: 100753](https://doi.org/10.1016/j.epidem.2024.100753). [**PDF**](https://hopkinsidd.github.io/flepiMoP_site/files/2024_Lemaitre_Epidemics.pdf)
+
 **2023**
 
 Howerton E, Contamin L, Mullany LC, Qin M, Reich NG, Bents S, Borchering RK, Jung S-m, Loo SL, Smith CP, Levander J, Kerr J, Espino J, Van Panhuis WG, Hochheiser H, Galanti M, Yamana T, Pei S, Shaman J, ..., Viboud, C, Lessler J. Evaluation of the US COVID-19 Scenario Modeling Hub for informing pandemic response under uncertainty. [Nature Communications. 2023; 14: 7260](https://doi.org/10.1038/s41467-023-42680-x). [**PDF**](https://hopkinsidd.github.io/flepiMoP_site/files/2023_Howerton_Nat_Commun.pdf)
