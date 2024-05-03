@@ -12,6 +12,8 @@ toc_label: "Contents"
 
 **2024**
 
+Jung S-m, Loo SL, Howerton E, Contamin L, Smith CP, Carcelén EC, Yan K, Bents SJ, Levander J, Espino J, Lemaitre JC, ..., **McKee CD**, ..., Lessler J. Potential impact of annual vaccination with reformulated COVID-19 vaccines: lessons from the US COVID-19 scenario modeling hub. [PLOS Medicine 21(4): e1004387](https://doi.org/10.1371/journal.pmed.1004387). [**PDF**](https://hopkinsidd.github.io/flepiMoP_site/files/2024_Jung_PLoS_Med.pdf)
+
 Lemaitre JC, Loo SL, Kaminsky J, Lee EC, McKee C, Smith C, Jung S-m, Sato K, Carcelen E, Hill A, Lessler J, Truelove S. *flepiMoP*: the evolution of a flexible infectious disease modeling pipeline during the COVID-19 pandemic. [Epidemics. 2024; 47: 100753](https://doi.org/10.1016/j.epidem.2024.100753). [**PDF**](https://hopkinsidd.github.io/flepiMoP_site/files/2024_Lemaitre_Epidemics.pdf)
 
 **2023**
@@ -39,7 +41,5 @@ Lemaitre JC, Grantz KH, Kaminsky J, Meredith HR, Truelove SA, Lauer SA, Keegan L
 **2023**
 
 Mathis SM, Webber AE, Basu A, Drake JM, White LA, Murray EL, Sun M, Leon TM, Hu AJ, Shemetov D, Brooks LC, Tibshirani RJ, Green A, McDonald DJ, Rosenfeld R, Kandula S, Yamana TK, Pei S, Yaari R, ..., Borchering RK. Evaluation of FluSight influenza forecasting in the 2021-22 and 2022-23 seasons with a new target laboratory-confirmed influenza hospitalizations. [medRxiv. 2023](https://doi.org/10.1101/2023.12.08.23299726). [**PDF**](https://hopkinsidd.github.io/flepiMoP_site/files/2023_Mathis_medRxiv.pdf)
-
-Jung S-m, Loo SL, Howerton E, Contamin L, Smith CP, Carcelén EC, Yan K, Bents SJ, Levander J, Espino J, Reich NG, Lemaitre JC, Sato K, McKee CD, Hill AL, Chinazzi M, David JT, Mu K, Vespignani A, ..., Lessler J. Potential impact of annual vaccination with reformulated COVID-19 vaccines: lessons from the U.S. COVID- 19 Scenario Modeling Hub. [medRxiv. 2023](https://doi.org/10.1101/2023.10.26.23297581). [**PDF**](https://hopkinsidd.github.io/flepiMoP_site/files/2023_Jung_medRxiv.pdf)
 
 Lopez VK, Cramer EY, Pagano R, Drake JM, O’Dea EB, Adee M, Ayer T, Chhatwal J, Dalgic OO, Ladd MA, Linas BP, Mueller PP, Xiao J, Bracher J, Castro Rivadeneira AJ, Gerding A, Gneiting T, Huang Y, Jayawardena D, ..., Johansson M. Challenges of COVID-19 case forecasting in the US, 2020--2021. [medRxiv. 2023](https://doi.org/10.1101/2023.05.30.23290732). [**PDF**](https://hopkinsidd.github.io/flepiMoP_site/files/2023_Lopez_medRxiv.pdf)
