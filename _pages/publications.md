@@ -12,7 +12,7 @@ toc_label: "Contents"
 
 **2024**
 
-Jung S-m, Loo SL, Howerton E, Contamin L, Smith CP, Carcelén EC, Yan K, Bents SJ, Levander J, Espino J, Lemaitre JC, ..., **McKee CD**, ..., Lessler J. Potential impact of annual vaccination with reformulated COVID-19 vaccines: lessons from the US COVID-19 scenario modeling hub. [PLOS Medicine 21(4): e1004387](https://doi.org/10.1371/journal.pmed.1004387). [**PDF**](https://hopkinsidd.github.io/flepiMoP_site/files/2024_Jung_PLoS_Med.pdf)
+Jung S-m, Loo SL, Howerton E, Contamin L, Smith CP, Carcelén EC, Yan K, Bents SJ, Levander J, Espino J, Lemaitre JC, Sato K, McKee CD, Hill AL, Chinazzi M, Davis JT, Mu K, Vespignani A, Rosenstrom ET, ..., Lessler J. Potential impact of annual vaccination with reformulated COVID-19 vaccines: lessons from the US COVID-19 scenario modeling hub. [PLOS Medicine 21(4): e1004387](https://doi.org/10.1371/journal.pmed.1004387). [**PDF**](https://hopkinsidd.github.io/flepiMoP_site/files/2024_Jung_PLoS_Med.pdf)
 
 Lemaitre JC, Loo SL, Kaminsky J, Lee EC, McKee C, Smith C, Jung S-m, Sato K, Carcelen E, Hill A, Lessler J, Truelove S. *flepiMoP*: the evolution of a flexible infectious disease modeling pipeline during the COVID-19 pandemic. [Epidemics. 2024; 47: 100753](https://doi.org/10.1016/j.epidem.2024.100753). [**PDF**](https://hopkinsidd.github.io/flepiMoP_site/files/2024_Lemaitre_Epidemics.pdf)
 
