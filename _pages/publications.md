@@ -12,7 +12,9 @@ toc_label: "Contents"
 
 **2024**
 
-Jung S-m, Loo SL, Howerton E, Contamin L, Smith CP, Carcelén EC, Yan K, Bents SJ, Levander J, Espino J, Lemaitre JC, Sato K, McKee CD, Hill AL, Chinazzi M, Davis JT, Mu K, Vespignani A, Rosenstrom ET, ..., Lessler J. Potential impact of annual vaccination with reformulated COVID-19 vaccines: lessons from the US COVID-19 scenario modeling hub. [PLOS Medicine 21(4): e1004387](https://doi.org/10.1371/journal.pmed.1004387). [**PDF**](https://hopkinsidd.github.io/flepiMoP_site/files/2024_Jung_PLoS_Med.pdf)
+Lopez VK, Cramer EY, Pagano R, Drake JM, O’Dea EB, Adee M, Ayer T, Chhatwal J, Dalgic OO, Ladd MA, Linas BP, Mueller PP, Xiao J, Bracher J, Castro Rivadeneira AJ, Gerding A, Gneiting T, Huang Y, Jayawardena D, ..., Johansson M. Challenges of COVID-19 case forecasting in the US, 2020--2021. [PLOS Computational Biology. 2024; 20(5): e1011200](https://doi.org/10.1371/journal.pcbi.1011200). [**PDF**](https://hopkinsidd.github.io/flepiMoP_site/files/2024_Lopez_PLOSCompBiol.pdf)
+
+Jung S-m, Loo SL, Howerton E, Contamin L, Smith CP, Carcelén EC, Yan K, Bents SJ, Levander J, Espino J, Lemaitre JC, Sato K, McKee CD, Hill AL, Chinazzi M, Davis JT, Mu K, Vespignani A, Rosenstrom ET, ..., Lessler J. Potential impact of annual vaccination with reformulated COVID-19 vaccines: lessons from the US COVID-19 scenario modeling hub. [PLOS Medicine. 2024; 21(4): e1004387](https://doi.org/10.1371/journal.pmed.1004387). [**PDF**](https://hopkinsidd.github.io/flepiMoP_site/files/2024_Jung_PLoS_Med.pdf)
 
 Lemaitre JC, Loo SL, Kaminsky J, Lee EC, McKee C, Smith C, Jung S-m, Sato K, Carcelen E, Hill A, Lessler J, Truelove S. *flepiMoP*: the evolution of a flexible infectious disease modeling pipeline during the COVID-19 pandemic. [Epidemics. 2024; 47: 100753](https://doi.org/10.1016/j.epidem.2024.100753). [**PDF**](https://hopkinsidd.github.io/flepiMoP_site/files/2024_Lemaitre_Epidemics.pdf)
 
@@ -26,7 +28,7 @@ Borchering RK, Mullany LC, Howerton E, Chinazzi M, Smith CP, Qin M, Reich NG, Co
 
 Truelove S, Smith CP, Qin M, Mullany LC, Borchering RK, Lessler J, Shea K, Howerton E, Contamin L, Levander J, Kerr J, Hochheiser H, Kinsey M, Tallaksen K, Wilson S, Shin L, Rainwater-Lovett K, Lemaitre JC, Dent J, ..., Runge MC, Viboud C. Projected resurgence of COVID-19 in the United States in July--December 2021 resulting from the increased transmissibility of the Delta variant and faltering vaccination. [eLife. 2022; 11: e73584](https://doi.org/10.7554/eLife.73584). [**PDF**](https://hopkinsidd.github.io/flepiMoP_site/files/2022_Truelove_eLife.pdf)
 
-Perez-Saez J, Lee EC, Wada NI, Alqunaibet AM, Almudarra SS, Alsukait RF, Dong D, Zhang Y, El Saharty S, Herbst CH, Lessler J. Effect of non-pharmaceutical interventions in the early phase of the COVID-19 epidemic in Saudi Arabia. [PLOS Global Public Health 2022; 2(5): e0000237](https://doi.org/10.1371/journal.pgph.0000237). [**PDF**](https://hopkinsidd.github.io/flepiMoP_site/files/2022_Perez-Saez_PLOSGlobPublicHealth.pdf)
+Perez-Saez J, Lee EC, Wada NI, Alqunaibet AM, Almudarra SS, Alsukait RF, Dong D, Zhang Y, El Saharty S, Herbst CH, Lessler J. Effect of non-pharmaceutical interventions in the early phase of the COVID-19 epidemic in Saudi Arabia. [PLOS Global Public Health. 2022; 2(5): e0000237](https://doi.org/10.1371/journal.pgph.0000237). [**PDF**](https://hopkinsidd.github.io/flepiMoP_site/files/2022_Perez-Saez_PLOSGlobPublicHealth.pdf)
 
 Cramer EY, Ray EL, Lopez VK, Bracher J, Brennen A, Castro Rivadeneira AJ, Gerding A, Gneiting T, House KH, Huang Y, Jayawardena D, Kanji AH, Khandelwal A, Le K, Mühlemann A, Niemi J, Shah A, Stark A, Wang Y, ..., Reich NG. Evaluation of individual and ensemble probabilistic forecasts of COVID-19 mortality in the United States. [Proceedings of the National Academy of Sciences. 2022; 119(15): e2113561119](https://doi.org/10.1073/pnas.2113561119). [**PDF**](https://hopkinsidd.github.io/flepiMoP_site/files/2022_Cramer_PNAS.pdf)
 
@@ -41,5 +43,3 @@ Lemaitre JC, Grantz KH, Kaminsky J, Meredith HR, Truelove SA, Lauer SA, Keegan L
 **2023**
 
 Mathis SM, Webber AE, Basu A, Drake JM, White LA, Murray EL, Sun M, Leon TM, Hu AJ, Shemetov D, Brooks LC, Tibshirani RJ, Green A, McDonald DJ, Rosenfeld R, Kandula S, Yamana TK, Pei S, Yaari R, ..., Borchering RK. Evaluation of FluSight influenza forecasting in the 2021-22 and 2022-23 seasons with a new target laboratory-confirmed influenza hospitalizations. [medRxiv. 2023](https://doi.org/10.1101/2023.12.08.23299726). [**PDF**](https://hopkinsidd.github.io/flepiMoP_site/files/2023_Mathis_medRxiv.pdf)
-
-Lopez VK, Cramer EY, Pagano R, Drake JM, O’Dea EB, Adee M, Ayer T, Chhatwal J, Dalgic OO, Ladd MA, Linas BP, Mueller PP, Xiao J, Bracher J, Castro Rivadeneira AJ, Gerding A, Gneiting T, Huang Y, Jayawardena D, ..., Johansson M. Challenges of COVID-19 case forecasting in the US, 2020--2021. [medRxiv. 2023](https://doi.org/10.1101/2023.05.30.23290732). [**PDF**](https://hopkinsidd.github.io/flepiMoP_site/files/2023_Lopez_medRxiv.pdf)
