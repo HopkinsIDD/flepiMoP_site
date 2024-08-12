@@ -12,6 +12,8 @@ toc_label: "Contents"
 
 **2024**
 
+Mathis SM, Webber AE, León T, Murray EL, Sun M, White LA, Brooks LC, Green A, Hu AJ, Rosenfeld R, Shemetov D, Tibshirani RJ, McDonald DJ, Kandula S, Pei S, Yaari R, Yamana TK, Shaman J, Agarwal P, ..., Borchering RK. Evaluation of FluSight influenza forecasting in the 2021–-22 and 2022–-23 seasons with a new target laboratory-confirmed influenza hospitalizations. [Nature Communications. 2024; 15: 6289](https://doi.org/10.1038/s41467-024-50601-9). [**PDF**](https://hopkinsidd.github.io/flepiMoP_site/files/2024_Mathis_Nat_Commun.pdf)
+
 Lopez VK, Cramer EY, Pagano R, Drake JM, O’Dea EB, Adee M, Ayer T, Chhatwal J, Dalgic OO, Ladd MA, Linas BP, Mueller PP, Xiao J, Bracher J, Castro Rivadeneira AJ, Gerding A, Gneiting T, Huang Y, Jayawardena D, ..., Johansson M. Challenges of COVID-19 case forecasting in the US, 2020--2021. [PLOS Computational Biology. 2024; 20(5): e1011200](https://doi.org/10.1371/journal.pcbi.1011200). [**PDF**](https://hopkinsidd.github.io/flepiMoP_site/files/2024_Lopez_PLOSCompBiol.pdf)
 
 Jung S-m, Loo SL, Howerton E, Contamin L, Smith CP, Carcelén EC, Yan K, Bents SJ, Levander J, Espino J, Lemaitre JC, Sato K, McKee CD, Hill AL, Chinazzi M, Davis JT, Mu K, Vespignani A, Rosenstrom ET, ..., Lessler J. Potential impact of annual vaccination with reformulated COVID-19 vaccines: lessons from the US COVID-19 scenario modeling hub. [PLOS Medicine. 2024; 21(4): e1004387](https://doi.org/10.1371/journal.pmed.1004387). [**PDF**](https://hopkinsidd.github.io/flepiMoP_site/files/2024_Jung_PLoS_Med.pdf)
@@ -37,9 +39,3 @@ Cramer EY, Ray EL, Lopez VK, Bracher J, Brennen A, Castro Rivadeneira AJ, Gerdin
 Borchering RK, Viboud C, Howerton E, Smith CP, Truelove S, Runge MC, Reich NG, Contamin L, Levander J, Salerno J, Van Panhuis W, Kinsey M, Tallaksen K, Obrecht RF, Asher L, Costello C, Kelbaugh M, Wilson S, Shin L, ..., Shea K, Lessler J. Modeling of future COVID-19 cases, hospitalizations, and deaths, by vaccination rates and nonpharmaceutical intervention scenarios --- United States, April--September 2021. [Morbidity and Mortality Weekly Report. 2021; 70(19): 719--724](https://doi.org/10.15585%2Fmmwr.mm7019e3). [**PDF**](https://hopkinsidd.github.io/flepiMoP_site/files/2022_Borchering_MMWR.pdf)
 
 Lemaitre JC, Grantz KH, Kaminsky J, Meredith HR, Truelove SA, Lauer SA, Keegan LT, Shah S, Wills J, Kaminsky K, Perez-Saez J, Lessler J, Lee EC. A scenario modeling pipeline for COVID-19 emergency planning. [Scientific Reports. 2021; 11(1): 7534](https://doi.org/10.1038/s41598-021-86811-0). [**PDF**](https://hopkinsidd.github.io/flepiMoP_site/files/2021_Lee_SciRep.pdf)
-
-## Preprints
-
-**2023**
-
-Mathis SM, Webber AE, Basu A, Drake JM, White LA, Murray EL, Sun M, Leon TM, Hu AJ, Shemetov D, Brooks LC, Tibshirani RJ, Green A, McDonald DJ, Rosenfeld R, Kandula S, Yamana TK, Pei S, Yaari R, ..., Borchering RK. Evaluation of FluSight influenza forecasting in the 2021-22 and 2022-23 seasons with a new target laboratory-confirmed influenza hospitalizations. [medRxiv. 2023](https://doi.org/10.1101/2023.12.08.23299726). [**PDF**](https://hopkinsidd.github.io/flepiMoP_site/files/2023_Mathis_medRxiv.pdf)
