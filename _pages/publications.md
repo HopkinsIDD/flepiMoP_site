@@ -12,7 +12,7 @@ toc_label: "Contents"
 
 **2024**
 
-Mathis SM, Webber AE, León T, Murray EL, Sun M, White LA, Brooks LC, Green A, Hu AJ, Rosenfeld R, Shemetov D, Tibshirani RJ, McDonald DJ, Kandula S, Pei S, Yaari R, Yamana TK, Shaman J, Agarwal P, ..., Borchering RK. Evaluation of FluSight influenza forecasting in the 2021–-22 and 2022–-23 seasons with a new target laboratory-confirmed influenza hospitalizations. [Nature Communications. 2024; 15: 6289](https://doi.org/10.1038/s41467-024-50601-9). [**PDF**](https://hopkinsidd.github.io/flepiMoP_site/files/2024_Mathis_Nat_Commun.pdf)
+Mathis SM, Webber AE, León T, Murray EL, Sun M, White LA, Brooks LC, Green A, Hu AJ, Rosenfeld R, Shemetov D, Tibshirani RJ, McDonald DJ, Kandula S, Pei S, Yaari R, Yamana TK, Shaman J, Agarwal P, ..., Borchering RK. Evaluation of FluSight influenza forecasting in the 2021–22 and 2022–23 seasons with a new target laboratory-confirmed influenza hospitalizations. [Nature Communications. 2024; 15: 6289](https://doi.org/10.1038/s41467-024-50601-9). [**PDF**](https://hopkinsidd.github.io/flepiMoP_site/files/2024_Mathis_Nat_Commun.pdf)
 
 Lopez VK, Cramer EY, Pagano R, Drake JM, O’Dea EB, Adee M, Ayer T, Chhatwal J, Dalgic OO, Ladd MA, Linas BP, Mueller PP, Xiao J, Bracher J, Castro Rivadeneira AJ, Gerding A, Gneiting T, Huang Y, Jayawardena D, ..., Johansson M. Challenges of COVID-19 case forecasting in the US, 2020--2021. [PLOS Computational Biology. 2024; 20(5): e1011200](https://doi.org/10.1371/journal.pcbi.1011200). [**PDF**](https://hopkinsidd.github.io/flepiMoP_site/files/2024_Lopez_PLOSCompBiol.pdf)
 
