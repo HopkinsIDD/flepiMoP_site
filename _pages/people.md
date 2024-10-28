@@ -10,6 +10,7 @@ title: "People"
 
 | <font size="4">Current Members</font> | | |
 |:--|:-|:-----|
+| <img src="https://hopkinsidd.github.io/flepiMoP_site/images/Tijs_Alleman.jpg" width="200px" height="267px"/> | <b>Tijs Alleman</b> | Postdoctoral Fellow<br>Department of International Health<br>Johns Hopkins Bloomberg School of Public Health |
 | <img src="https://hopkinsidd.github.io/flepiMoP_site/images/Erica_Carcelen.jpeg" width="200px" height="267px"/> | <b>Erica Carcelen</b> | Research Project Manager<br>Department of International Health<br>Johns Hopkins Bloomberg School of Public Health |
 | <img src="https://hopkinsidd.github.io/flepiMoP_site/images/Pengcheng_Fang.jpeg" width="200px" height="267px"/> | <b>Pengcheng Fang</b> | Software Engineer<br>Department of Epidemiology<br>Johns Hopkins Bloomberg School of Public Health |
 | <img src="https://hopkinsidd.github.io/flepiMoP_site/images/Alison_Hill.jpeg" width="200px" height="267px"/> | <b>Alison Hill</b> | Assistant Professor<br>Department of Biomedical Engineering<br>Johns Hopkins University School of Medicine |
