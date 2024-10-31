@@ -10,7 +10,7 @@ title: "People"
 
 | <font size="4">Current Members</font> | | |
 |:--|:-|:-----|
-| <img src="https://hopkinsidd.github.io/flepiMoP_site/images/Tijs_Alleman.jpg" width="200px" height="267px"/> | <b>Tijs Alleman</b> | Postdoctoral Fellow<br>Department of International Health<br>Johns Hopkins Bloomberg School of Public Health |
+| <img src="https://hopkinsidd.github.io/flepiMoP_site/images/Tijs_Alleman_crop.jpg" width="200px" height="267px"/> | <b>Tijs Alleman</b> | Postdoctoral Fellow<br>Department of International Health<br>Johns Hopkins Bloomberg School of Public Health |
 | <img src="https://hopkinsidd.github.io/flepiMoP_site/images/Erica_Carcelen.jpeg" width="200px" height="267px"/> | <b>Erica Carcelen</b> | Research Project Manager<br>Department of International Health<br>Johns Hopkins Bloomberg School of Public Health |
 | <img src="https://hopkinsidd.github.io/flepiMoP_site/images/Pengcheng_Fang.jpeg" width="200px" height="267px"/> | <b>Pengcheng Fang</b> | Software Engineer<br>Department of Epidemiology<br>Johns Hopkins Bloomberg School of Public Health |
 | <img src="https://hopkinsidd.github.io/flepiMoP_site/images/Alison_Hill.jpeg" width="200px" height="267px"/> | <b>Alison Hill</b> | Assistant Professor<br>Department of Biomedical Engineering<br>Johns Hopkins University School of Medicine |
@@ -22,7 +22,7 @@ title: "People"
 | <img src="https://hopkinsidd.github.io/flepiMoP_site/images/Clifton_McKee.jpeg" width="200px" height="267px"/> | <b>Clifton McKee</b> | Research Associate<br>Department of Epidemiology<br>Johns Hopkins Bloomberg School of Public Health |
 | <img src="https://hopkinsidd.github.io/flepiMoP_site/images/Anjalika_Nande_crop.jpg" width="200px" height="267px"/> | <b>Anjalika Nande</b> | Postdoctoral Fellow<br>Institute for Computational Medicine<br>Johns Hopkins University |
 | <img src="https://hopkinsidd.github.io/flepiMoP_site/images/Carl_Pearson_crop.jpeg" width="200px" height="267px"/> | <b>Carl Pearson</b> | Research Assistant Professor<br>Department of Epidemiology<br>UNC Gillings School of Global Public Health |
-| <img src="https://hopkinsidd.github.io/flepiMoP_site/images/Emily_Przykucki.jpg" width="200px" height="267px"/> | <b>Emily Przykucki</b> | Graduate Research Assistant<br>Department of Epidemiology<br>UNC Gillings School of Global Public Health |
+| <img src="https://hopkinsidd.github.io/flepiMoP_site/images/Emily_Przykucki_crop.jpg" width="200px" height="267px"/> | <b>Emily Przykucki</b> | Graduate Research Assistant<br>Department of Epidemiology<br>UNC Gillings School of Global Public Health |
 | <img src="https://hopkinsidd.github.io/flepiMoP_site/images/Kimberlyn_Roosa_crop.jpg" width="200px" height="267px"/> | <b>Kimberlyn Roosa</b> | Postdoctoral Fellow<br>Department of International Health<br>Johns Hopkins Bloomberg School of Public Health |
 | <img src="https://hopkinsidd.github.io/flepiMoP_site/images/Shaun_Truelove.jpeg" width="200px" height="267px"/> | <b>Shaun Truelove</b> | Associate Scientist<br>Departments of Epidemiology and International Health<br>Johns Hopkins Bloomberg School of Public Health |
 | <img src="https://hopkinsidd.github.io/flepiMoP_site/images/Timothy_Willard.png" width="200px" height="267px"/> | <b>Timothy Willard</b> | IT Analyst/Programmer<br>Department of Epidemiology<br>UNC Gillings School of Global Public Health |
